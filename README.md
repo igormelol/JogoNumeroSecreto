@@ -1,4 +1,4 @@
-![Captura de tela 2025-02-22 192144](https://github.com/user-attachments/assets/14d7598d-3d63-41d8-8565-801f33ee69f5)
+
 **Um simples jogo de adivinhação em JavaScript.**
 
 ## Como Jogar
